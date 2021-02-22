@@ -1,0 +1,3 @@
+== Reporte de entregas ==
+ERROR: Delivery indication (DDSAIAD) contains not valid characters
+

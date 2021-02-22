@@ -1,0 +1,9 @@
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\bin\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.deps.json
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\bin\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.dll
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\bin\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.pdb
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\obj\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.csprojAssemblyReference.cache
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\obj\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.AssemblyInfoInputs.cache
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\obj\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.AssemblyInfo.cs
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\obj\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.csproj.CoreCompileInputs.cache
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\obj\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.dll
+C:\Users\juan.loaiza\source\repos\SuCorrientazoADomicilio.S4N\SuCorrientazoADomicilio.S4N.Dto\obj\Debug\netstandard2.0\S4N.SuCorrientazoADomicilio.Dto.pdb

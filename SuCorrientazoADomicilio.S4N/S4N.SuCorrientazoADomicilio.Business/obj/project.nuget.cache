@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nYbMi88FE3kx9OXLHcVF0n2HaadFrMaKWNtswu01MF4hEeowswefoKRs5VxJrO0JDsHbUkSj0XWuzSAfOc00vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan.loaiza\\source\\repos\\SuCorrientazoADomicilio.S4N\\S4N.SuCorrientazoADomicilio.Business\\S4N.SuCorrientazoADomicilio.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan.loaiza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\juan.loaiza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
